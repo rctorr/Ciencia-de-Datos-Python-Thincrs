@@ -1,0 +1,6 @@
+*.pyc
+.jupyter_ystore.db
+.ipynb_checkpoints
+refs
+__pycache__
+resp/
